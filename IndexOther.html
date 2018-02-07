@@ -5,7 +5,8 @@ permalink: /IndexOther/
 ---
 
 <div class="posts">
-  {% for post in site.postsOther %}
+  {% for post in site.posts %}
+    {% if post.categories contains 'other' %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -16,5 +17,6 @@ permalink: /IndexOther/
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    {% endif %}
   {% endfor %}
 </div>
