@@ -1,8 +1,8 @@
 ---
 layout: post
 category: other
-title: Other Posts 2
+title: Other Posts Dummy
 date: 2017-04-06 21:35
 ---
 
-Other Posts Two!
+This is a palceholde!
