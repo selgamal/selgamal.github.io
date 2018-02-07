@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Other Posts 2
 category: other
+title: Other Posts 2
 ---
 
 Other Posts Two!
