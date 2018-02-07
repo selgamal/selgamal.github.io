@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R Placeholder
+title: R Posts Placeholder
 category: Rscript
 ---
 
