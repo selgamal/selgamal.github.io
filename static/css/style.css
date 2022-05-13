@@ -1,0 +1,13 @@
+#homePageBackgroundImageDivStyled {
+    filter: blur(3px) brightness(.7);
+}
+
+.initial-navbar .navbar-brand {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.initial-navbar li a {
+    color: #e0e0e0;
+}
+

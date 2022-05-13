@@ -1,0 +1,22 @@
+<svg id="main-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="60" height="80" xml:space="preserve" fill="#52758b">
+
+        <defs>
+          <style type="text/css">
+            @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300');
+         </style>
+        </defs>
+        <g transform="matrix(0.16 0 0 0.19 30 40)" id="mHyqgub9AZYK0iba-cGAL">
+        <g style="" vector-effect="non-scaling-stroke">
+                <g transform="matrix(2.35 0 0 2.4 -22.31 93.15)" id="2dns4DHYxV2yAGLHW8NO2">
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(0, 0)" d="M 0 -40.58442 C 22.4026 -40.58442 40.58442 -22.402600000000003 40.58442 0 C 40.58442 22.4026 22.402600000000003 40.58442 0 40.58442 C -22.4026 40.58442 -40.58442 22.402600000000003 -40.58442 0 C -40.58442 -22.4026 -22.402600000000003 -40.58442 0 -40.58442 z" stroke-linecap="round"/>
+        </g>
+                <g transform="matrix(2.55 0 0 -1.62 -22.31 -92.62)" id="LJ81UvQvO_Dcn-ocWplzx">
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-40, -40)" d="M 60 40 L 80 80 L 40 80 L 0 80 L 20 40 L 40 0 L 60 40 z" stroke-linecap="round"/>
+        </g>
+                <g transform="matrix(11.21 0 0 2.27 -22.31 -27.27)" id="SkwxeADtBa_fv0vsjv9vm">
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(0, 0)" d="M -12.58117 -12.58117 L 12.58117 -12.58117 L 12.58117 12.58117 L -12.58117 12.58117 z" stroke-linecap="round"/>
+        </g>
+        </g>
+        </g>
+        
+        </svg>

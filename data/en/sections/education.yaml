@@ -1,0 +1,23 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Commerce (English Section) - Accounting Major
+  icon: fa-graduation-cap
+  timeframe: 1996-2001
+  institution:
+    name: Alexandria University, Alexandria, Egypt
+
+- name: High School
+  icon: fa-school
+  timeframe: 1981-1996
+  institution:
+    name: Victory College, Alexandria, Egypt

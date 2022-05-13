@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Audit
+  logo: /images/sections/skills/audit.svg
+  summary: "15+ years of experience in audit, main focus on banking, managed audit engagement, agreed upon procedures, due diligence & valuations, and accounting advisory engagements."
+
+- name: Accounting and Reporting
+  logo: /images/sections/skills/accounting.svg
+  summary: "Experience with **IFRS, US-GAAP, Tax reporting, Management and Regulatory reporting**. Well versed in budgeting, cashflow management, cost management and process evaluation"
+
+- name: XBRL and Digital Transformation
+  logo: /images/sections/skills/XBRL.svg
+  summary: "Thorough understanding of eXtensible Business Reporting Language (XBRL) and its implementations around the world. XBRL is an international data format designed specifically for business reporting."
+
+- name: Information Systems and Automation
+  logo: /images/sections/skills/it.svg
+  summary: "Being a part of both worlds, I can bridge the gap between business and information technology professionals to provide practical business solutions."
+
+- name: Data Analytics
+  logo: /images/sections/skills/analytics.svg
+  summary: "Statistical analysis techniques using programing languages such as **Python, Rscript, SQL**, and Visualization tools
+            such as **Power BI and Tableau**, in addition to other packages."
+
+- name: Technologies
+  logo: /images/sections/skills/technology.svg
+  summary: "Able to work with various technologies including databases such as **MSSQL server**, **Postgres**, **MongoDB**, **Git** for version control,
+          and other technologies like **linux OS**, **Docker** for virtualization."
+
+- name: ERP and Software
+  logo: /images/sections/skills/erp.svg
+  summary: "Able to work with various ERP systems and software packages such as SAP, Oracle, Sage, Quickbooks, in addition to office tools such as MS Office suite and Libre Office."

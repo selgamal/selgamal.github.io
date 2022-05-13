@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Training
+  id: training
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Continuing Professional Education
+  icon: fa-university
+  timeframe: 2008-Present
+  institution:
+    name: Maintaining minimum of 40 hours of CPE annually in various accounting, audit, and risk management topics since 2008
+
+- name: Udacity
+  icon: fa-laptop
+  institution:
+    name: Advanced Data Analysis Nano degree (Udacity)
+  timeframe: 2021
+
+- name: Association of Chartered Certified Accountants (ACCA)
+  icon: fa-magnifying-glass
+  timeframe: 2010
+  institution:
+    name: Certificate of International Audit (Cert IA)
+
+- name: Association of Chartered Certified Accountants (ACCA)
+  icon: fa-calculator
+  timeframe: 2010
+  institution:
+    name: Certificate in International Financial Reporting (Cert IFR)
+- name: SAP Academy
+  icon: fa-laptop
+  timeframe: 2012
+  institution:
+    name: Integration of Business Processes In SAP ERP
+
