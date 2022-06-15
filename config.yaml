@@ -41,6 +41,11 @@ features:
       email: true
 
 Params:
+  customMenus:
+    - name: My-Notes
+      url: https://selgamal.github.io/my-notes/
+      hideFromNavbar: false
+      showOnFooter: true
   logo: 
     favicon: "/images/logo_only.svg"
   background: "/images/bg-f.jpg"
@@ -57,7 +62,7 @@ Params:
     navigation:
       enable: true
       # show custom menus in the footer
-      customMenus: false
+      customMenus: true
     # Show/hide "Contact Me" section in the footer. Default is "true".
     contactMe:
       enable: true

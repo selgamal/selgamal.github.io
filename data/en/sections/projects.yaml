@@ -65,7 +65,7 @@ projects:
   url: "https://selgamal.github.io/xbrl-glossary-collection/xbrl-glossary-collection.html"
   tags: ["xbrl", "translation", "arabic", "python", "html"]
 
-- name: Notes on XBRL
+- name: Notes on XBRL Specifications
   role: Author
   timeline: "Dec 2021 - Present"
   logo: "/images/sections/skills/XBRL.svg"
