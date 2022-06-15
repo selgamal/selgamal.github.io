@@ -70,9 +70,9 @@ projects:
   timeline: "Dec 2021 - Present"
   logo: "/images/sections/skills/XBRL.svg"
   summary: "This material is a collection of notes on XBRL put together to provide a basic understanding of what is XBRL, what it does, 
-  and how it is implemented ([go to page](https://selgamal.github.io/my-notes/docs/notes-on-xbrl-specs.nb.html))."
+  and how it is implemented ([go to page](https://selgamal.github.io/my-notes/post/notes-on-xbrl-specs/))."
   repo: https://github.com/selgamal/xbrl_notes
-  url: https://selgamal.github.io/my-notes/docs/notes-on-xbrl-specs.nb.html
+  url: https://selgamal.github.io/my-notes/post/notes-on-xbrl-specs/
   tags: [ "xbrl", "R","Rmarkdown"]
 
 - name: Articles and Blogs
